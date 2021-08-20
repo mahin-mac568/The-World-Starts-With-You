@@ -4,7 +4,11 @@
 
 ### Programming & Game Design: Mahin Chowdhury & Leonardo Leyva
 
+---
+
 ### Art: [Pixel Frog](https://pixelfrog-assets.itch.io/)
+
+---
 
 ### Music: 
 
