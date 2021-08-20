@@ -2,11 +2,11 @@
 
 ## Credits:
 
-#### Programming & Game Design: Mahin Chowdhury & Leonardo Leyva
+### Programming & Game Design: Mahin Chowdhury & Leonardo Leyva
 
-#### Art: [Pixel Frog](https://pixelfrog-assets.itch.io/)
+### Art: [Pixel Frog](https://pixelfrog-assets.itch.io/)
 
-#### Music: 
+### Music: 
 
 ##### Intro- [TheoTeravainen](https://freesound.org/people/TheoTeravainen/sounds/569783/)
 ##### Forest Level- [Ellary](https://freesound.org/people/Ellary/sounds/529483/)
@@ -16,7 +16,7 @@
 ##### Victory- [B_Sean](https://freesound.org/people/B_Sean/sounds/421888/)
 
 
-#### Sound FX: 
+### Sound FX: 
 
 ##### Enemy Death- [Jofae](https://freesound.org/people/Jofae/sounds/364929/) 
 ##### Injured Player- [MATRIXXX_](https://freesound.org/people/MATRIXXX_/sounds/486943/)
