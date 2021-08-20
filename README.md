@@ -23,6 +23,6 @@
 
 ### Sound FX: 
 
-##### Enemy Death- [Jofae](https://freesound.org/people/Jofae/sounds/364929/) 
-##### Injured Player- [MATRIXXX_](https://freesound.org/people/MATRIXXX_/sounds/486943/)
-##### Collectibles- [Shoni Pal](https://assetstore.unity.com/packages/audio/sound-fx/fruit-falling-sfx-pack-1-151580)
+##### Enemy Death - [Jofae](https://freesound.org/people/Jofae/sounds/364929/) 
+##### Injured Player - [MATRIXXX_](https://freesound.org/people/MATRIXXX_/sounds/486943/)
+##### Collectibles - [Shoni Pal](https://assetstore.unity.com/packages/audio/sound-fx/fruit-falling-sfx-pack-1-151580)
