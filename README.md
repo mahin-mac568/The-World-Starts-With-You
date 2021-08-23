@@ -1,4 +1,4 @@
-# The World Starts With You [(Click Here)](https://mahin-mac568.github.io/The-World-Starts-With-You/)
+# The World Starts With You [(Click Here To Play)](https://mahin-mac568.github.io/The-World-Starts-With-You/)
 
 ## Credits:
 
